@@ -1,2 +1,3 @@
 Hii
 Editing in Git Browser
+After creating branch edit master
